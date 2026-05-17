@@ -1,6 +1,6 @@
-# Обо мне
+# Обо мне    
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style=" width: 30px" alt="">
 
-   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" style=" width: 20px" alt="">
 Привет!  Я начинающий веб-разработчик. Сейчас активно развиваюсь в направлении Fullstack-разработки.
 
 ---
