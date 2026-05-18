@@ -2,7 +2,7 @@
 
 # Обо мне
 
-Привет! <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30" align="middle" alt=""> Я начинающий веб-разработчик. Сейчас активно развиваюсь в направлении Fullstack-разработки.
+Привет! <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="35" align="middle" alt=""> Я начинающий веб-разработчик. Сейчас активно развиваюсь в направлении Fullstack-разработки.
 
 ---
 
