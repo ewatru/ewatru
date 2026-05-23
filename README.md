@@ -3,15 +3,29 @@
 ---
 <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk1MjIxNzMsIm5iZiI6MTc3OTUyMTg3MywicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTIzVDA3Mzc1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliYTM1NWQxM2ZmYzQxMTlmZDI3OGZmNzQyNjlhODllN2U0ZTc4NTRhMmQ3MmIxMjgxMGRjMTk0YWMzOTJjYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.xrckfKpUpZq4w8jcgWpgUQd6SA7I_R3glIb1X71Rnuw" style= "width: 12000px; height: 450px">
 
-###  Frontend
-* **HTML5 & CSS3:** Семантическая разметка, кроссбраузерная и адаптивная верстка под любые экраны.
-* **Стилизация:** Практический опыт работы с Flexbox, Grid и препроцессором SASS (SCSS).
-* **JavaScript:** Знание базы языка (ES6+), манипуляции с DOM-деревом и обработка асинхронных запросов (Fetch API, async/await).
+### Frontend (Фреймворки и библиотеки)
+* **Angular** — разработка корпоративных SPA-приложений, RxJS, NgRx
+* **React** — создание интерактивных интерфейсов, Redux Toolkit, Hooks
+* **JavaScript / TypeScript** — глубокое понимание стандартов ES6+, строгая типизация
+* **HTML5 / CSS3** — адаптивная верстка, методология БЭМ, препроцессоры
 
-### Backend & Базы данных 
-* **Python:** Разработка серверной логики и построение REST API на фреймворках Flask и FastAPI.
-* **C#:** Базовые знания синтаксиса и принципов ООП.
-* **Работа с БД:** Проектирование простых баз данных на SQLite и PostgreSQL, использование ORM (SQLAlchemy, Entity Framework).
+### Backend & Базы данных
+* **Node.js** — разработка серверных приложений (Express, NestJS)
+* **Python** — проектирование быстрых REST API на фреймворках FastAPI и Flask
+* **Базы данных** — проектирование и оптимизация запросов в PostgreSQL и MySQL
+
+### DevOps & Инструменты
+* **Контейнеризация:** Docker
+* **Системы контроля версий:** Git / GitHub
+* **Окружение:** Linux / Ubuntu, VS Code / WebStorm
+
+---
+
+## 📈 Вектор развития
+* Глубокое изучение архитектурных паттернов во фронтенд-фреймворках (Angular/React).
+* Оптимизация CI/CD процессов и автоматизация деплоя приложений.
+
+---
 
    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style=" width: 100px">
    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" style=" width: 100px">
@@ -21,20 +35,10 @@
    <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" style=" width: 100px">
    <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" style=" width: 100px">
 
-###  Инструменты
-
-* **Контроль версий:** Git, GitHub (управление ветками, коммиты, слияния).
-* **Среда разработки:** VS Code / Visual Studio.
-
----
-
-
-# Вектор развития
-
-* **Фреймворки:** Глубокое погружение в экосистему React.js / Vue.js.
-* **DevOps:** Знакомство с Docker для контейнеризации и основами CI/CD процессов. <br>
-
-
+## 📫 Как со мной связаться
+* **Telegram:** [@evkkazz]
+* **Email:** [evsskorigova@gmail.com]
+* 
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkxMTk4MTMsIm5iZiI6MTc3OTExOTUxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE4VDE1NTE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4ZDc5MzVkMTA4YzlmOTUwNTYxMzliYTRmM2E4ODY5NjYwMTQ4NGZmNGJiYzA1ZTEzNzJiM2I1MGI3MzgzZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.mg25GLBJuOyNxUHJ93TeFot8DVkNG8W8m9uwpnfdLmA" width="300" alt="Jujutsu Kaisen">
 </p> 
