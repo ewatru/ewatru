@@ -1,83 +1,42 @@
+Привет!  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="35" align="middle" alt="">  Я начинающий веб-разработчик. Сейчас активно развиваюсь в направлении Fullstack-разработки.
 
+---
+<img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk1MjIxNzMsIm5iZiI6MTc3OTUyMTg3MywicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTIzVDA3Mzc1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliYTM1NWQxM2ZmYzQxMTlmZDI3OGZmNzQyNjlhODllN2U0ZTc4NTRhMmQ3MmIxMjgxMGRjMTk0YWMzOTJjYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.xrckfKpUpZq4w8jcgWpgUQd6SA7I_R3glIb1X71Rnuw" style= "width: 12000px; height: 450px">
 
+###  Frontend
+* **HTML5 & CSS3:** Семантическая разметка, кроссбраузерная и адаптивная верстка под любые экраны.
+* **Стилизация:** Практический опыт работы с Flexbox, Grid и препроцессором SASS (SCSS).
+* **JavaScript:** Знание базы языка (ES6+), манипуляции с DOM-деревом и обработка асинхронных запросов (Fetch API, async/await).
 
-# Привет! 👋 Я начинающий веб-разработчик
+### Backend & Базы данных 
+* **Python:** Разработка серверной логики и построение REST API на фреймворках Flask и FastAPI.
+* **C#:** Базовые знания синтаксиса и принципов ООП.
+* **Работа с БД:** Проектирование простых баз данных на SQLite и PostgreSQL, использование ORM (SQLAlchemy, Entity Framework).
 
-Сейчас активно развиваюсь в направлении **Fullstack-разработки**. Люблю решать сложные алгоритмические задачи и создавать оптимизированные веб-приложения.
+   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style=" width: 100px">
+   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" style=" width: 100px">
+   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style=" width: 100px">
+   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" style=" width: 100px">
+   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" style=" width: 100px">
+   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" style=" width: 100px">
+   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" style=" width: 100px">
+
+###  Инструменты
+
+* **Контроль версий:** Git, GitHub (управление ветками, коммиты, слияния).
+* **Среда разработки:** VS Code / Visual Studio.
 
 ---
 
-## 🛠️ Мой технологический стек
 
-### Frontend
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![SASS](https://shields.io)
-![JavaScript](https://shields.io)
+# Вектор развития
 
-*   **HTML5 & CSS3:** Семантическая разметка, кроссбраузерная и адаптивная верстка под любые экраны.
-*   **Стилизация:** Практический опыт работы с Flexbox, Grid и препроцессором SASS (SCSS).
-*   **JavaScript:** Знание базы языка (ES6+), манипуляции с DOM-деревом и обработка асинхронных запросов (Fetch API, async/await).
+* **Фреймворки:** Глубокое погружение в экосистему React.js / Vue.js.
+* **DevOps:** Знакомство с Docker для контейнеризации и основами CI/CD процессов. <br>
 
-### Backend & Базы данных
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Flask](https://shields.io)
-![C#](https://shields.io)
-![PostgreSQL](https://shields.io)
-![SQLite](https://shields.io)
 
-*   **Python:** Разработка серверной логики и построение REST API на фреймворках Flask и FastAPI.
-*   **C#:** Базовые знания синтаксиса и принципов ООП.
-*   **Работа с БД:** Проектирование простых баз данных на SQLite и PostgreSQL, использование ORM (SQLAlchemy, Entity Framework).
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkxMTk4MTMsIm5iZiI6MTc3OTExOTUxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE4VDE1NTE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4ZDc5MzVkMTA4YzlmOTUwNTYxMzliYTRmM2E4ODY5NjYwMTQ4NGZmNGJiYzA1ZTEzNzJiM2I1MGI3MzgzZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.mg25GLBJuOyNxUHJ93TeFot8DVkNG8W8m9uwpnfdLmA" width="300" alt="Jujutsu Kaisen">
+</p> 
 
-### Инструменты
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
 
-*   **Контроль версий:** Git, GitHub (управление ветками, коммиты, слияния).
-*   **Среда разработки:** VS Code / Visual Studio.
-
----
-
-## 🚀 Вектор развития
-
-*   **Фреймворки:** Глубокое погружение в экосистему React.js / Vue.js.
-*   **DevOps:** Знакомство с Docker для контейнеризации и основами CI/CD процессов.
-
----
-
-## 🧠 Примеры кода & Алгоритмы
-
-Пример реализации схемы разделения Хоара (Hoare partition) для быстрой сортировки на Python:
-
-```python
-pivot = nums[(low + high) // 2]
-i = low - 1
-j = high + 1
-while True:
-    i += 1
-    while nums[i] < pivot:
-        i += 1
-
-    j -= 1
-    while nums[j] > pivot:
-        j -= 1
-
-    if i >= j:
-        return j
-
-    # Если элемент с индексом i (слева от опорного) больше, чем
-    # элемент с индексом j (справа от опорного), меняем их местами
-    nums[i], nums[j] = nums[j], nums[i]
-```
-
----
-
-## 📊 Моя статистика GitHub
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
