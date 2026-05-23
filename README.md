@@ -32,7 +32,7 @@
 ## 📫 Как со мной связаться
 * **Telegram:** [@evkkazz]
 * **Email:** [evsskorigova@gmail.com]
-* 
+  
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkxMTk4MTMsIm5iZiI6MTc3OTExOTUxMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE4VDE1NTE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4ZDc5MzVkMTA4YzlmOTUwNTYxMzliYTRmM2E4ODY5NjYwMTQ4NGZmNGJiYzA1ZTEzNzJiM2I1MGI3MzgzZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.mg25GLBJuOyNxUHJ93TeFot8DVkNG8W8m9uwpnfdLmA" width="300" alt="Jujutsu Kaisen">
 </p> 
